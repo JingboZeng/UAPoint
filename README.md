@@ -1,2 +1,2 @@
 # UAPoint
-Code for WACV2025 paper: Uncertainty Aware Interest Point Detection and Descriptio
+Code for WACV paper: Uncertainty Aware Interest Point Detection and Description
